@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-        <a href="https://www.linkedin.com/in/lonemohsin33/" target="blank"><img align="center"
+        <a href="https://www.linkedin.com/in/lone-mohsin/" target="blank"><img align="center"
                 src="https://www.svgrepo.com/show/922/linkedin.svg"
                 alt="lonemohsin33" height="30" width="40" /></a>
         <a href="https://leetcode.com/lonemohsin33/" target="blank"><img align="center"
