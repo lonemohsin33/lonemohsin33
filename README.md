@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![An image of @lonemohsin33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lonemohsin33)](https://holopin.io/@lonemohsin33)
 <h1 align="center">Hi 👋, I'm Lone Mohsin</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
