@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
 
-<p align="left"> [![An image of @lonemohsin33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lonemohsin33)](https://holopin.io/@lonemohsin33) </p>
+<p align="left">  </p>
 
 - 🌱 I’m currently working with Angular
 
@@ -35,5 +35,6 @@ Here are some ideas to get you started:
                 src="https://www.svgrepo.com/show/306328/leetcode.svg"
                 alt="lonemohsin33" height="30" width="40" /></a>
     </p>
+    [![An image of @lonemohsin33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lonemohsin33)](https://holopin.io/@lonemohsin33)
 
 
