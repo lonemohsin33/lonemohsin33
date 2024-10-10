@@ -35,6 +35,5 @@ Here are some ideas to get you started:
                 src="https://www.svgrepo.com/show/306328/leetcode.svg"
                 alt="lonemohsin33" height="30" width="40" /></a>
     </p>
-    [![@lonemohsin33's Holopin board](https://holopin.io/api/user/board?user=lonemohsin33)](https://holopin.io/@lonemohsin33)
 
 
