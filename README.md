@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left">  </p>
 
-- 🌱 I’m currently working with Angular
+- 🌱 I’m currently working with Python and Angular
 
 - 💬 Ask me about MERN/MEAN
 
