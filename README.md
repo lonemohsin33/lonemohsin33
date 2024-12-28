@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working with Python and Angular
 
-- 💬 Ask me about MERN/MEAN/flask
+- 💬 Ask me about MERN/MEAN/Python
 
 - 📫 How to reach me lonemohsin4@gmail.com
 
